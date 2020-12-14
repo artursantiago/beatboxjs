@@ -18,11 +18,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/artursantiago/beatboxjs">
+<!--   <a href="https://github.com/artursantiago/beatboxjs">
     <img src=".github/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-  <h3 align="center">BeatBox JS</h3>
+  <h2 align="center">BeatBox JS</h3>
 
   <p align="center">
     <!-- project_description -->
