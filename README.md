@@ -13,35 +13,35 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- TROCAR repo_name PELO NOME DO REPOSITORIO -->
+<!-- TROCAR beatboxjs PELO NOME DO REPOSITORIO -->
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/artursantiago/repo_name">
+  <a href="https://github.com/artursantiago/beatboxjs">
     <img src=".github/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">BeatBox JS</h3>
 
   <p align="center">
-    project_description
+    <!-- project_description -->
+    <!-- <br />
+    <a href="https://github.com/artursantiago/beatboxjs"><strong>Explore the docs »</strong></a>
+    <br /> -->
     <br />
-    <a href="https://github.com/artursantiago/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/artursantiago/repo_name">View Demo</a>
+    <a href="https://github.com/artursantiago/beatboxjs">View Demo</a>
     ·
-    <a href="https://github.com/artursantiago/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/artursantiago/beatboxjs/issues">Report Bug</a>
     ·
-    <a href="https://github.com/artursantiago/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/artursantiago/beatboxjs/issues">Request Feature</a>
   </p>
 </p>
 
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
+<!-- <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
     <li>
@@ -64,30 +64,28 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
+</details> -->
 
 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Name Screen Shot][project-screenshot]](https://example.com)
+[![BeatBox JS Screen Shot][project-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`artursantiago`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
+A BeatBox application that allows user play sounds with the keyboard.
 
 
-### Built With
+<!-- ### Built With
 
 * []()
 * []()
-* []()
+* []() -->
 
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started
 
 To get a local copy up and running follow these simple steps.
 
@@ -103,28 +101,28 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/artursantiago/repo_name.git
+   git clone https://github.com/artursantiago/beatboxjs.git
    ```
 2. Install NPM packages
    ```sh
    npm install
-   ```
+   ``` -->
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap
 
-See the [open issues](https://github.com/artursantiago/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/artursantiago/beatboxjs/issues) for a list of proposed features (and known issues). -->
 
 
 
@@ -153,7 +151,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Artur Santiago - [@artursantiago_](https://instagram.com/artursantiago_) - artursantiago2001@hotmail.com
 
-Project Link: [https://github.com/artursantiago/repo_name](https://github.com/artursantiago/repo_name)
+Project Link: [https://github.com/artursantiago/beatboxjs](https://github.com/artursantiago/beatboxjs)
 
 
 
@@ -180,16 +178,16 @@ Project Link: [https://github.com/artursantiago/repo_name](https://github.com/ar
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/artursantiago/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/artursantiago/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/artursantiago/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/artursantiago/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/artursantiago/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/artursantiago/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/artursantiago/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/artursantiago/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/artursantiago/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/artursantiago/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/artursantiago/beatboxjs.svg?style=for-the-badge
+[contributors-url]: https://github.com/artursantiago/beatboxjs/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/artursantiago/beatboxjs.svg?style=for-the-badge
+[forks-url]: https://github.com/artursantiago/beatboxjs/network/members
+[stars-shield]: https://img.shields.io/github/stars/artursantiago/beatboxjs.svg?style=for-the-badge
+[stars-url]: https://github.com/artursantiago/beatboxjs/stargazers
+[issues-shield]: https://img.shields.io/github/issues/artursantiago/beatboxjs.svg?style=for-the-badge
+[issues-url]: https://github.com/artursantiago/beatboxjs/issues
+[license-shield]: https://img.shields.io/github/license/artursantiago/beatboxjs.svg?style=for-the-badge
+[license-url]: https://github.com/artursantiago/beatboxjs/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/artursantiago
 [project-screenshot]: .github/images/screenshot.png
