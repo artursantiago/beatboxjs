@@ -1,0 +1,12 @@
+# Created by https://www.toptal.com/developers/gitignore/api/vscode,sass
+# Edit at https://www.toptal.com/developers/gitignore?templates=vscode,sass
+
+### Sass ###
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+
+### vscode ###
+.vscode/*
+# End of https://www.toptal.com/developers/gitignore/api/vscode,sass
