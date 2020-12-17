@@ -45,6 +45,8 @@ body {
   border-radius: 1rem;
   border: .5rem solid aqua;
 
+  transition: all .2s ease-out;
+
   span {
     font-size: 3rem;
     color: white;

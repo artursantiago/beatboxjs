@@ -52,6 +52,8 @@ body {
   height: 12rem;
   border-radius: 1rem;
   border: .5rem solid aqua;
+  -webkit-transition: all .2s ease-out;
+  transition: all .2s ease-out;
 }
 
 .button span {
